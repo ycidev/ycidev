@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ycidev
 - 👀 I’m interested in electronics, web development, python
-- 🌱 I’m currently learning to make 3D games with python
+- 🌱 I’m currently developing a webapp with python
 - 📫 How to reach me @the_realflorian on Twitter
 
 <!---
