@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ycidev
 - 👀 I’m interested in electronics, web development, python
 - 🌱 I’m currently developing a webapp with python
-- 📫 How to reach me @the_realflorian on Twitter
+- 📫 How to reach me @the_realflorian on Threads
 
 <!---
 ycidev/ycidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
