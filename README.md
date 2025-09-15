@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ycidev
-- 👀 I’m interested in electronics, web development, python
-- 🌱 I’m currently developing a webapp with python
-- 📫 How to reach me @the_realflorian on X
+- 👀 Mechanical Engineering Student @ ETH Zürich 
+- 🌱 Interested in Python, C++ and Maschine Learning
+- 📫 Contact me on [Linkedin](https://www.linkedin.com/in/flovogt/)
 
 <!---
 ycidev/ycidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
